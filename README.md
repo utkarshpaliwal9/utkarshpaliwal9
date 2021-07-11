@@ -10,7 +10,7 @@ If you are looking for ideas or discussions with potential impact,
 - :chart_with_upwards_trend: My skill set include, but is not limited to, Backend (Golang, Java, Scala), Frontend (Javascript, React, Tkinter), Docker, Kubernetes and AWS.
 - :books: I am always learning
 
-For hiring, mentorship, or for any discussions, hit me anytime at [LinkedIn](www.linkedin.com/in/utkarshpaliwal9)
+For hiring, mentorship, or for any discussions, hit me anytime at [LinkedIn](https://www.linkedin.com/in/utkarshpaliwal9/)
 
 "I Chase Impact!"
 
